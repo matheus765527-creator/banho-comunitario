@@ -18,7 +18,7 @@ export default function Page() {
       <header className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6 lg:px-10">
         <a href="#inicio" className="flex items-center gap-3" aria-label="Banho que Acolhe - início">
           <span className="flex h-11 w-11 items-center justify-center rounded-2xl bg-[#e76f51] text-white shadow-sm"><Droplets size={22} /></span>
-          <span className="text-lg font-bold tracking-tight">Banho que Acolhe</span>
+          <span className="text-lg font-bold tracking-tight">TESTEEEEE</span>
         </a>
         <nav className="hidden items-center gap-8 text-sm font-medium md:flex" aria-label="Navegação principal">
           <a href="#projeto" className="transition-colors hover:text-[#e76f51]">O projeto</a>
