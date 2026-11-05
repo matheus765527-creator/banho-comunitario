@@ -3,7 +3,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Banho que Acolhe | Higiene e dignidade',
+  title: 'Banho que Acolhe Teste 2 | Higiene e dignidade',
   description: 'Projeto social que oferece banho, higiene e acolhimento para pessoas em situação de rua.',
   generator: 'v0.app',
   icons: {
