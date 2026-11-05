@@ -33,7 +33,7 @@ export default function Page() {
         <div>
           <div className="mb-6 inline-flex items-center gap-2 rounded-full bg-[#dceae4] px-4 py-2 text-xs font-bold uppercase tracking-[.15em] text-[#34716a]"><Sparkles size={15} /> Higiene também é dignidade</div>
           <h1 className="max-w-2xl text-5xl font-bold leading-[1.02] tracking-[-.05em] text-[#173c3b] sm:text-6xl lg:text-7xl">Um banho pode mudar o começo de um dia.</h1>
-          <p className="mt-7 max-w-xl text-lg leading-8 text-[#58706b]">O <strong className="text-[#173c3b]">Banho que Acolhe</strong> leva banho, cuidado e respeito para pessoas em situação de rua, em pontos seguros e acessíveis da cidade.</p>
+          <p className="mt-7 max-w-xl text-lg leading-8 text-[#58706b]"><strong className="text-[#173c3b]">A técnica e o espaço da margem: </strong>Avaliação e implementação tática de estações de higienização fixas e móveis no abc paulista</p>
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">
             <a href="#locais" className="inline-flex items-center justify-center gap-2 rounded-full bg-[#e76f51] px-6 py-4 font-bold text-white shadow-lg shadow-[#e76f51]/20 transition-transform hover:-translate-y-1">Conheça os locais <ArrowRight size={18} /></a>
             <a href="#projeto" className="inline-flex items-center justify-center rounded-full border border-[#173c3b]/15 px-6 py-4 font-bold text-[#173c3b] hover:bg-white">Entenda o projeto</a>
@@ -69,7 +69,7 @@ export default function Page() {
 
       <section id="apoie" className="px-6 py-20 lg:px-10 lg:py-24"><div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-8 rounded-[32px] bg-[#f2c36b] px-8 py-10 sm:px-12 lg:flex-row lg:items-center"><div><p className="text-sm font-bold uppercase tracking-[.18em] text-[#7c5520]">Faça parte</p><h2 className="mt-3 max-w-xl text-3xl font-bold tracking-[-.03em] text-[#173c3b] sm:text-4xl">Toda pessoa merece um lugar para se sentir bem.</h2></div><a href="mailto:contato@banhoqueacolhe.org" className="inline-flex shrink-0 items-center gap-2 rounded-full bg-[#173c3b] px-6 py-4 font-bold text-white transition-transform hover:-translate-y-1">Quero ser voluntário <ArrowRight size={18} /></a></div></section>
 
-      <footer className="border-t border-[#173c3b]/10 px-6 py-8 lg:px-10"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-3 text-sm text-[#6b817c] sm:flex-row"><p>© 2024 Banho que Acolhe</p><p>Um projeto de cuidado, respeito e cidadania.</p></div></footer>
+      <footer className="border-t border-[#173c3b]/10 px-6 py-8 lg:px-10"><div className="mx-auto flex max-w-7xl flex-col justify-between gap-3 text-sm text-[#6b817c] sm:flex-row"><p>© 2026 Banho que Acolhe</p><p>Um projeto de cuidado, respeito e cidadania.</p></div></footer>
     </main>
   )
 }
