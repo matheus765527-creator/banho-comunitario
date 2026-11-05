@@ -1,7 +1,7 @@
 import { ArrowRight, Droplets, HeartHandshake, MapPin, Menu, ShowerHead, Sparkles, Users } from 'lucide-react'
 
 const locations = [
-  { name: 'Centro de Acolhimento , Centro Pop', address: 'Rua das Flores, 120 — Centro', hours: 'Sábados, das 9h às 13h' },
+  { name: 'Centro de Acolhimento , Centro Pop', address: 'R. Queiroz dos Santos, 736 — Centro', hours: '2° a 6°, 8h às 17h' },
   { name: 'Praça da Estação CPTM', address: 'Av. Central, próximo ao terminal', hours: 'Terças, das 16h às 19h' },
   { name: 'Parque Municipal', address: 'Entrada norte — Vila Nova', hours: 'Quintas, das 14h às 18h' },
 ]
